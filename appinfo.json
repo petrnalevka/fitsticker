@@ -1,0 +1,91 @@
+{
+  "uuid": "df0322a7-1b62-4679-95d0-b9b3cdbca81a",
+  "shortName": "FitSticker",
+  "longName": "Fit Sticker",
+  "companyName": "Urbandroid",
+  "versionLabel": "1.8",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt","chalk"],
+  "watchapp": {
+    "watchface": true
+  },
+  "capabilities": ["configurable"],
+  "appKeys": {
+    "events": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "NONE",
+        "file": "default.png"
+      },
+      {
+        "type": "png",
+        "name": "DEFAULT",
+        "file": "default.png"
+      },
+      {
+        "type": "png",
+        "name": "FOOD",
+        "file": "food.png"
+      },
+      {
+        "type": "png",
+        "name": "SPORT",
+        "file": "sport.png"
+      },
+      {
+        "type": "png",
+        "name": "DRINK",
+        "file": "drink.png"
+      },
+      {
+        "type": "png",
+        "name": "LEARN",
+        "file": "learn.png"
+      },
+      {
+        "type": "png",
+        "name": "WORK",
+        "file": "work.png"
+      },
+      {
+        "type": "png",
+        "name": "REST",
+        "file": "rest.png"
+      },
+      {
+        "type": "png",
+        "name": "BEER",
+        "file": "beer.png"
+      },
+      {
+        "type": "png",
+        "name": "FRIENDS",
+        "file": "friends.png"
+      },
+      {
+        "type": "png",
+        "name": "BEDTIME",
+        "file": "bedtime.png"
+      },
+      {
+        "type": "png",
+        "name": "SEX",
+        "file": "sex.png"
+      },
+      {
+        "type": "png",
+        "name": "REMINDER",
+        "file": "reminder.png"
+      },
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "icon.png"
+      }
+    ]
+  }
+}
